@@ -5,5 +5,4 @@ public class Car {
     Car(String cmp, String md, int a) {
     company = cmp;
     model = md;
-    age = a; }
-}
+    age = a; }}
